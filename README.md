@@ -29,3 +29,4 @@ Project is created with:
 * Hani Khellafi
 * Tien Nguyen
 
+Deployed Link: https://learning-platform6148.herokuapp.com/
